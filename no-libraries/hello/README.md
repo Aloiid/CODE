@@ -101,7 +101,4 @@ return 0;
 
 Résultat :
 
-![résultat](./images/helloworld2.png)
-
-
 ![résultat](./images/helloworld3.png)
